@@ -11,3 +11,8 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Jack
 - Fergiandane
+
+## Changes Made by Jack: Added a feature greeting.
+
+## Team Members
+-Jack - Feature: student info display
