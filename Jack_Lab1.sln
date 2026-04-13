@@ -5,12 +5,6 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jack_Lab1", "Jack_Lab1\Jack_Lab1.vcxproj", "{518CAF25-84AA-49A3-BF64-18E18DE498FE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D430D89-A113-483A-A4A3-DBA663643B72}"
-	ProjectSection(SolutionItems) = preProject
-		Lab_1_Clone\Fergiandane_Lab1.cpp = Lab_1_Clone\Fergiandane_Lab1.cpp
-		README.md = README.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
