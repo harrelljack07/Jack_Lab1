@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+using namespace std;
 // Feature by Fergiandane: a function to determine if a student has passed or failed based on their grade.//
 void passFailCheck(int score) 
 {
@@ -14,7 +15,8 @@ void passFailCheck(int score)
 }
 using namespace std;
 // Feature by Jack: This function calculates the average grade and assigns a letter grade based on the average. //
-void calculateGrade(int score) {
+void calculateGrade(int score) 
+{
     if (score >= 90) {
         cout << "Grade: A" << endl;
     } else if (score >= 80) {
@@ -27,8 +29,17 @@ void calculateGrade(int score) {
         cout << "Grade: F" << endl;
     }
 }
+
+// My favourite number function — added by [Your Name]
+void myFavouriteNumber()
+{
+    int fav = 5;
+    cout << "My favourite number is: " << fav << endl;
+}
 int main()
 {
+	myFavouriteNumber();
+
     cout << "Hello from Jack! This is my first Git commit!" << endl;
     cout << "Git makes collaboration easy!" << endl;
     cout << "Changes made by Fergiandane!" << endl;
