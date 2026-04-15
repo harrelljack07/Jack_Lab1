@@ -3,6 +3,15 @@
 //
 
 #include <iostream>
+// Feature by Fergiandane: a function to determine if a student has passed or failed based on their grade.//
+void passFailCheck(int score) 
+{
+    if (score >= 60) {
+        cout << "Congratulations! You passed!" << endl;
+    } else {
+        cout << "Sorry, you failed. Better luck next time!" << endl;
+    }
+}
 using namespace std;
 // Feature by Jack: This function calculates the average grade and assigns a letter grade based on the average. //
 void calculateGrade(int score) {
