@@ -16,3 +16,7 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Team Members
 -Jack - Feature: student info display
+
+## Pass Fail Function
+- Fergiandane
+- a function to determine if a student has passed or failed based on their grade
