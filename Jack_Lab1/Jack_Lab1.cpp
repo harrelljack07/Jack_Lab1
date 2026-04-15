@@ -4,6 +4,20 @@
 
 #include <iostream>
 using namespace std;
+// Feature by Jack: This function calculates the average grade and assigns a letter grade based on the average. //
+void calculateGrade(int score) {
+    if (score >= 90) {
+        cout << "Grade: A" << endl;
+    } else if (score >= 80) {
+        cout << "Grade: B" << endl;
+    } else if (score >= 70) {
+        cout << "Grade: C" << endl;
+    } else if (score >= 60) {
+        cout << "Grade: D" << endl;
+    } else {
+        cout << "Grade: F" << endl;
+    }
+}
 int main()
 {
     cout << "Hello from Jack! This is my first Git commit!" << endl;
