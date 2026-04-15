@@ -16,3 +16,7 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Team Members
 -Jack - Feature: student info display
+
+## Grade Caclulator Function
+- Jack
+- This function calculates the average grade and assigns a letter grade based on the average.
